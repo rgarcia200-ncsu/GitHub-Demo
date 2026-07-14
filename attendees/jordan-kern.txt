@@ -1,0 +1,1 @@
+"Hi, I'm Jordan Kern and I'm learning Git!" 
